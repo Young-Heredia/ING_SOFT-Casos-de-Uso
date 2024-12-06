@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GESTIONAR PROMOCIONES", "GESTIONAR PROMOCIONES\GESTIONAR PROMOCIONES.csproj", "{D3ABE4C5-9E0B-4E77-8415-BB009E3FE2ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3ABE4C5-9E0B-4E77-8415-BB009E3FE2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3ABE4C5-9E0B-4E77-8415-BB009E3FE2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3ABE4C5-9E0B-4E77-8415-BB009E3FE2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3ABE4C5-9E0B-4E77-8415-BB009E3FE2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CB6BB25-8258-46E4-AA6A-F64E47DE7FDC}
+	EndGlobalSection
+EndGlobal

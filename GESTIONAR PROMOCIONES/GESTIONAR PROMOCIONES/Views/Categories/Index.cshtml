@@ -1,0 +1,64 @@
+﻿@model IEnumerable<GESTIONAR_PROMOCIONES.Models.Category>
+
+@{
+    ViewData["Title"] = "Categories Index";
+}
+
+<h1>Categories Index</h1>
+
+<!-- Filtro de búsqueda -->
+<form method="get">
+    <div class="form-group">
+        <input type="text" name="searchName" class="form-control" value="@ViewData["SearchName"]" placeholder="Search by Name" />
+        <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+    
+</form>
+
+<br />
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Create New</a>
+</p>
+
+<br />
+
+<!-- Mensajes de notificación (opcional) -->
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Name)</th>
+            <th>@Html.DisplayNameFor(model => model.Description)</th>
+            <th>Status</th> <!-- Renombrado para mejor claridad -->
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                <td>@(item.Status ? "Active" : "Inactive")</td> <!-- Mostrar 'Active' o 'Inactive' -->
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
