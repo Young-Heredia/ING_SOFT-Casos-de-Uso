@@ -26,12 +26,72 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\UNIVALLE\GESTION II-2024 ISI\ING SOFT (B)\ASSIGNMENTS\PROYECTO FINAL\GESTIONAR PROMOCIONES\GESTIONAR PROMOCIONES
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Promotions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW90aW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Promotions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW90aW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Promotions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW90aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Promotions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW90aW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Promotions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW90aW9uc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Shared/Error.cshtml]

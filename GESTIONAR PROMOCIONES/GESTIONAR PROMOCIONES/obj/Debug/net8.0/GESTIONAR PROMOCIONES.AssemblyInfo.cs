@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GESTIONAR PROMOCIONES")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b26b9c3015521d6f4edcd662a2a764c40f2c7a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GESTIONAR PROMOCIONES")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GESTIONAR PROMOCIONES")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
