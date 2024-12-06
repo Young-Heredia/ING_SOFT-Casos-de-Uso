@@ -20,7 +20,7 @@ namespace GESTIONAR_PROMOCIONES.Models
         public DateTime EndDate { get; set; }
 
         [NotNull]
-        public byte Status { get; set; }
+        public byte Status { get; set; } = 1;
 
         public int ProductID { get; set; }
 

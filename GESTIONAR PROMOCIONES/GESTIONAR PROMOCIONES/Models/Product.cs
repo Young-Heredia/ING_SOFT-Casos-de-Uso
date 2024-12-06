@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Diagnostics.CodeAnalysis;
 
 namespace GESTIONAR_PROMOCIONES.Models
 {
@@ -15,6 +16,9 @@ namespace GESTIONAR_PROMOCIONES.Models
 
         [Required]
         public double Price { get; set; }
+
+        [NotNull]
+        public byte Status { get; set; } = 1;
 
         public int CategoryID { get; set; }
 
