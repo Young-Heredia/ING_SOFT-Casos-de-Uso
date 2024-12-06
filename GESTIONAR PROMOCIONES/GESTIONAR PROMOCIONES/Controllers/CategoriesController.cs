@@ -14,18 +14,18 @@ namespace GESTIONAR_PROMOCIONES.Controllers
             _context = context;
         }
 
-        // GET: Categories
+        
         public async Task<IActionResult> Index(string? searchName)
         {
-            // Si se proporciona un valor de búsqueda, filtrar las categorías por nombre
+            
             var categories = string.IsNullOrEmpty(searchName)
-                ? await _context.Categories.ToListAsync()  // Si no hay búsqueda, traemos todas las categorías
+                ? await _context.Categories.ToListAsync()  
                 : await _context.Categories
-                    .Where(c => c.Name.Contains(searchName))  // Filtramos las categorías por nombre
+                    .Where(c => c.Name.Contains(searchName))  
                     .ToListAsync();
 
-            // Pasamos las categorías filtradas (o todas si no se filtra) a la vista
-            ViewData["SearchName"] = searchName; // Para mostrar el texto de búsqueda en la vista
+            
+            ViewData["SearchName"] = searchName; 
             return View(categories);
         }
 
@@ -41,21 +41,20 @@ namespace GESTIONAR_PROMOCIONES.Controllers
             return View(category);
         }
 
-        // GET: Categories/Create
+        
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Categories/Create
-        // POST: Categories/Create
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Name,Description,Status")] Category category)
         {
             if (ModelState.IsValid)
             {
-                category.Status = true; // Establecer el estado predeterminado
+                
                 _context.Add(category);
                 await _context.SaveChangesAsync();
                 TempData["SuccessMessage"] = "Category created successfully!";
@@ -66,7 +65,7 @@ namespace GESTIONAR_PROMOCIONES.Controllers
         }
 
 
-        // GET: Categories/Edit/5
+        
         public async Task<IActionResult> Edit(int? id)
         {
             var category = await FindCategoryAsync(id);
@@ -78,7 +77,7 @@ namespace GESTIONAR_PROMOCIONES.Controllers
             return View(category);
         }
 
-        // POST: Categories/Edit/5
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Description,Status")] Category category)
@@ -109,7 +108,7 @@ namespace GESTIONAR_PROMOCIONES.Controllers
             return View(category);
         }
 
-        // GET: Categories/Delete/5
+       
         public async Task<IActionResult> Delete(int? id)
         {
             var category = await FindCategoryAsync(id);
@@ -121,7 +120,7 @@ namespace GESTIONAR_PROMOCIONES.Controllers
             return View(category);
         }
 
-        // POST: Categories/Delete/5
+        
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)

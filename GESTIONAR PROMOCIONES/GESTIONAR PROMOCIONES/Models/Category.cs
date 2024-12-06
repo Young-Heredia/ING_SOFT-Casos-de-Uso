@@ -15,7 +15,7 @@ namespace GESTIONAR_PROMOCIONES.Models
         public string? Description { get; set; }
 
         [NotNull]
-        public bool Status { get; set; } = true;
+        public byte Status { get; set; } = 1;
 
         public ICollection<Product>? Products { get; set; }
     }
