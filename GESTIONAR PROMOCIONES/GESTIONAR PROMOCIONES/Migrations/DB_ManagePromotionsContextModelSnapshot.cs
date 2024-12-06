@@ -38,6 +38,9 @@ namespace GESTIONAR_PROMOCIONES.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<byte>("Status")
+                        .HasColumnType("tinyint");
+
                     b.HasKey("Id");
 
                     b.ToTable("Categories");
@@ -64,6 +67,9 @@ namespace GESTIONAR_PROMOCIONES.Migrations
 
                     b.Property<double>("Price")
                         .HasColumnType("float");
+
+                    b.Property<byte>("Status")
+                        .HasColumnType("tinyint");
 
                     b.HasKey("Id");
 

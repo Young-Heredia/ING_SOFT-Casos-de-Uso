@@ -18,7 +18,8 @@ namespace GESTIONAR_PROMOCIONES.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Description = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Description = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Status = table.Column<byte>(type: "tinyint", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -34,6 +35,7 @@ namespace GESTIONAR_PROMOCIONES.Migrations
                     Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Description = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Price = table.Column<double>(type: "float", nullable: false),
+                    Status = table.Column<byte>(type: "tinyint", nullable: false),
                     CategoryID = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
