@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VAWhyQ6lKbzVAkyLXHBL0RRkoss8C8K7Aa8H4Xu34uDlIlVUoRLwIpzVYfCwHJZFAzP7Br2uvoJf1EOwE1z6sg==",
+  "dgSpecHash": "76DfpU9hjlzduyf0p7S1Y+SUMJh//1hbj4BSB7IEMmGUQiM/XfKBq5uqZ9XKIv/mgSpQqV631HEa9HBrODdqyg==",
   "success": true,
-  "projectFilePath": "D:\\UNIVALLE\\GESTION II-2024 ISI\\ING SOFT (B)\\ASSIGNMENTS\\2024.12.04 Informe Final de Proyecto\\GESTIONAR PROMOCIONES\\GESTIONAR PROMOCIONES\\GESTIONAR PROMOCIONES.csproj",
+  "projectFilePath": "D:\\UNIVALLE\\GESTION II-2024 ISI\\ING SOFT (B)\\ASSIGNMENTS\\PROYECTO FINAL\\GESTIONAR PROMOCIONES\\GESTIONAR PROMOCIONES\\GESTIONAR PROMOCIONES.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YOUNG\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\YOUNG\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

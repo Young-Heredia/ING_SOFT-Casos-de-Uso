@@ -17,39 +17,39 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GESTIONAR_PROMOCIONES
 build_property.RootNamespace = GESTIONAR_PROMOCIONES
-build_property.ProjectDir = d:\UNIVALLE\GESTION II-2024 ISI\ING SOFT (B)\ASSIGNMENTS\2024.12.04 Informe Final de Proyecto\GESTIONAR PROMOCIONES\GESTIONAR PROMOCIONES\
+build_property.ProjectDir = D:\UNIVALLE\GESTION II-2024 ISI\ING SOFT (B)\ASSIGNMENTS\PROYECTO FINAL\GESTIONAR PROMOCIONES\GESTIONAR PROMOCIONES\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\UNIVALLE\GESTION II-2024 ISI\ING SOFT (B)\ASSIGNMENTS\2024.12.04 Informe Final de Proyecto\GESTIONAR PROMOCIONES\GESTIONAR PROMOCIONES
+build_property.MSBuildProjectDirectory = D:\UNIVALLE\GESTION II-2024 ISI\ING SOFT (B)\ASSIGNMENTS\PROYECTO FINAL\GESTIONAR PROMOCIONES\GESTIONAR PROMOCIONES
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/2024.12.04 Informe Final de Proyecto/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Home/Index.cshtml]
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/2024.12.04 Informe Final de Proyecto/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Home/Privacy.cshtml]
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/2024.12.04 Informe Final de Proyecto/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Shared/Error.cshtml]
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/2024.12.04 Informe Final de Proyecto/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/2024.12.04 Informe Final de Proyecto/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/_ViewImports.cshtml]
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/2024.12.04 Informe Final de Proyecto/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/_ViewStart.cshtml]
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/2024.12.04 Informe Final de Proyecto/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Shared/_Layout.cshtml]
+[D:/UNIVALLE/GESTION II-2024 ISI/ING SOFT (B)/ASSIGNMENTS/PROYECTO FINAL/GESTIONAR PROMOCIONES/GESTIONAR PROMOCIONES/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ndpabdf4re

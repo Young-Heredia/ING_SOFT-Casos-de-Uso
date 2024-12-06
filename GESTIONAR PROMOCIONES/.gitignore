@@ -1,0 +1,70 @@
+# Configuración y entorno
+appsettings*.json
+!appsettings.json
+*.env
+
+# Archivos generados automáticamente por Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Carpetas de compilación
+bin/
+obj/
+
+# Paquetes NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Configuración del IDE
+*.idea/
+*.vscode/
+*.code-workspace
+
+# Logs, depuración y salida
+*.log
+*.tlog
+*.ide
+*.ilk
+*.pdb
+*.cache
+*.aps
+*.stackdump
+
+# Archivos generados por el runtime
+project.lock.json
+project.fragment.lock.json
+
+# Archivos de publicación y despliegue
+.publish/
+.publish_output/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.pid
+*.pid.lock
+
+# Sistema de control de versiones
+*.orig
+
+# Archivos específicos de Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Archivos específicos de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos específicos de Linux
+*~
+
+# Archivos de compatibilidad con la Web
+wwwroot/lib/
+wwwroot/css/site.css
+wwwroot/js/site.js
