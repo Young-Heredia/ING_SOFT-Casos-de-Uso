@@ -57,7 +57,7 @@ namespace GESTIONAR_PROMOCIONES.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Description,Price,CategoryID")] Product product)
+        public async Task<IActionResult> Create([Bind("Id,Name,Description,Price,Status,CategoryID")] Product product)
         {
             if (ModelState.IsValid)
             {
@@ -91,7 +91,7 @@ namespace GESTIONAR_PROMOCIONES.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Description,Price,CategoryID")] Product product)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Description,Price,Status,CategoryID")] Product product)
         {
             if (id != product.Id)
             {
