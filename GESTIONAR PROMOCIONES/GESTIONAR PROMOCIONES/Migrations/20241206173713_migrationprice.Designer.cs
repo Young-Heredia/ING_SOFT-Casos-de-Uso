@@ -4,6 +4,7 @@ using GESTIONAR_PROMOCIONES.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace GESTIONAR_PROMOCIONES.Migrations
 {
     [DbContext(typeof(DB_ManagePromotionsContext))]
-    partial class DB_ManagePromotionsContextModelSnapshot : ModelSnapshot
+    [Migration("20241206173713_migrationprice")]
+    partial class migrationprice
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

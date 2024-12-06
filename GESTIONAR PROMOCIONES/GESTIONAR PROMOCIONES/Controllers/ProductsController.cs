@@ -59,6 +59,9 @@ namespace GESTIONAR_PROMOCIONES.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Name,Description,Price,Status,CategoryID")] Product product)
         {
+
+
+
             if (ModelState.IsValid)
             {
                 _context.Add(product);
